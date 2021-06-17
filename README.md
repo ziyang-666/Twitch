@@ -12,6 +12,6 @@
 
 ## Screenshot
 
-![MainPage](./Screenshot/MyTwitch.png)
+![MainPage](./Screenshot/MyTwitch.PNG)
 
 
